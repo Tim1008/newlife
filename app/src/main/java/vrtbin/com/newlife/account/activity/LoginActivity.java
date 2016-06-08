@@ -1,4 +1,4 @@
-package vrtbin.com.newlife.user.activity;
+package vrtbin.com.newlife.account.activity;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
